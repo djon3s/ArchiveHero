@@ -1,4 +1,4 @@
 ArchiveHero
 ===========
 
-Digitizing the stack for fun and profit.
+Digitizing the (archival) stack for fun and profit.

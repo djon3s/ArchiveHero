@@ -1,3 +1,9 @@
 [submodule "archivehero"]
 	path = archivehero
 	url = https://github.com/djon3s/ah.git
+[submodule "spiders"]
+	path = spiders
+	url = ./spiders.git
+[submodule "parsers"]
+	path = parsers
+	url = ./parsers.git
